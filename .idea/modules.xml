@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FiledInject.iml" filepath="$PROJECT_DIR$/FiledInject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fieldinjectlib/fieldinjectlib.iml" filepath="$PROJECT_DIR$/fieldinjectlib/fieldinjectlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fieldinjectlib-annotation/fieldinjectlib-annotation.iml" filepath="$PROJECT_DIR$/fieldinjectlib-annotation/fieldinjectlib-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fieldinjectlib-compiler/fieldinjectlib-compiler.iml" filepath="$PROJECT_DIR$/fieldinjectlib-compiler/fieldinjectlib-compiler.iml" />
+    </modules>
+  </component>
+</project>
